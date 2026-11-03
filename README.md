@@ -1,16 +1,32 @@
-## Hi there 👋
+# Md Saimum Islam Fahad
 
-<!--
-**saimumfahad-dev/saimumfahad-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science & Engineering Undergraduate** at North South University, Bangladesh.
 
-Here are some ideas to get you started:
+Interested in software engineering, mathematics, artificial intelligence, machine learning, and robotics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Currently studying Computer Science & Engineering at NSU.
+- Building my foundation in programming, data structures, algorithms, and object-oriented programming.
+- Interested in solving real-world problems through software development.
+- Continuously learning and exploring new technologies.
+
+## Technical Skills
+
+**Languages:** C · C++ · Java
+
+**Core Concepts:** Data Structures · Algorithms · Object-Oriented Programming · Problem Solving
+
+## Projects
+
+| Project | Technology |
+| --- | --- |
+| Bank Management System | C |
+| Crime Investigation Portal | Java |
+| Data Structures & Algorithms Implementations | C++ |
+
+Project repositories and documentation will be linked here as they are published.
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/md-saimum-islam-fahad/)
