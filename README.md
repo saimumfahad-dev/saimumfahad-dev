@@ -1,32 +1,110 @@
-# Md Saimum Islam Fahad
 
-**Computer Science & Engineering Undergraduate** at North South University, Bangladesh.
+<p align="center">
+  <img src="banner.png" alt="Md Saimum Islam Fahad — developer banner" width="100%" />
+</p>
 
-Interested in software engineering, mathematics, artificial intelligence, machine learning, and robotics.
+<p align="center">
+  <strong>CSE Undergraduate at North South University · Aspiring Software Engineer</strong>
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-saimum-islam-fahad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/saimumfahad-dev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-202830?style=flat-square&logo=github&logoColor=white" alt="GitHub projects" /></a>
+  <a href="mailto:saimumfahad655@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-147D70?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+---
 
 ## About Me
 
-- Currently studying Computer Science & Engineering at NSU.
-- Building my foundation in programming, data structures, algorithms, and object-oriented programming.
-- Interested in solving real-world problems through software development.
-- Continuously learning and exploring new technologies.
+```java
+class Developer {
+    String name = "Md Saimum Islam Fahad";
+    String university = "North South University";
+    String degree = "BSc in Computer Science & Engineering (in progress)";
+    String[] languages = {"C", "C++", "Java"};
+    String[] interests = {"Software Engineering", "Mathematics", "AI/ML", "Robotics"};
+    String currentFocus = "Building projects and strengthening programming fundamentals";
+}
+```
 
-## Technical Skills
+I'm a Computer Science & Engineering undergraduate in Dhaka, Bangladesh. I learn by building practical projects and working through programming, data structures, algorithms, and object-oriented design.
 
-**Languages:** C · C++ · Java
+## Tech Stack
 
-**Core Concepts:** Data Structures · Algorithms · Object-Oriented Programming · Problem Solving
+**Languages**
 
-## Projects
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" width="42" height="42" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="42" height="42" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="42" height="42" />
+</p>
 
-| Project | Technology |
-| --- | --- |
-| Bank Management System | C |
-| Crime Investigation Portal | Java |
-| Data Structures & Algorithms Implementations | C++ |
+**Tools**
 
-Project repositories and documentation will be linked here as they are published.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VS Code" width="42" height="42" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="42" height="42" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="42" height="42" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="42" height="42" />
+</p>
 
-## Connect
+`Code::Blocks` · `Java Swing` · `File Handling` · `Data Structures` · `OOP` · `Problem Solving`
 
-[LinkedIn](https://www.linkedin.com/in/md-saimum-islam-fahad/)
+## Featured Projects
+
+### Bank Management System — C
+
+A console-based academic banking simulator demonstrating procedural programming and binary file storage.
+
+- Register and log in to accounts
+- Check balances and perform deposits or withdrawals
+- Change account passwords
+- Store account records locally using `.dat` files
+
+**[View repository](https://github.com/saimumfahad-dev/bank-management-system-c)**
+
+### Crime Investigation Portal — Java
+
+A Java Swing desktop prototype with separate interfaces for reporting and managing fictional cases.
+
+- Victim crime-report submission form with case IDs
+- Administrator dashboard for viewing and assigning reports
+- Investigator dashboard for assigned cases and status updates
+- Case tracking and local text-file storage
+
+**[View repository](https://github.com/saimumfahad-dev/crime-investigation-portal-java)** · **[Application screenshots](https://github.com/saimumfahad-dev/crime-investigation-portal-java/tree/main/screenshots)**
+
+> Both are academic prototypes. They are not intended for real banking or law-enforcement use.
+
+## Current Focus
+
+- Improving problem-solving and data structures & algorithms
+- Writing clearer, more maintainable C and Java code
+- Building complete projects and documenting them well
+- Exploring software engineering, mathematics, and AI/ML
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saimumfahad-dev&show_icons=true&hide_border=true&bg_color=0B1113&title_color=42BAA4&text_color=C7D4D3&icon_color=42BAA4" alt="GitHub activity stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimumfahad-dev&layout=compact&hide_border=true&bg_color=0B1113&title_color=42BAA4&text_color=C7D4D3" alt="Most-used languages in public repositories" width="350" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saimumfahad-dev&hide_border=true&background=0B1113&ring=42BAA4&fire=42BAA4&currStreakLabel=42BAA4&sideLabels=C7D4D3&dates=889D9A" alt="GitHub contribution streak" width="520" />
+</p>
+
+<sub>Analytics are generated by third-party services and may occasionally be unavailable. Language charts reflect public repository code, not proficiency.</sub>
+
+---
+
+<p align="center">
+  <strong>Code · Build · Learn</strong><br />
+  <sub>Thanks for visiting.</sub>
+</p>
