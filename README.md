@@ -48,37 +48,52 @@ Outside coding, my experience tutoring students has strengthened my communicatio
 
 `Data Structures` · `Algorithms` · `Object-Oriented Programming` · `Problem Solving` · `Java Swing` · `File Handling`
 
+
 ## 📂 Featured Projects
 
-### [Bank Management System](https://github.com/saimumfahad-dev/bank-management-system-c) · `C`
+<p align="center">
+  <a href="https://github.com/saimumfahad-dev/bank-management-system-c">
+    <img src="bank-management-card.png" alt="Bank Management System in C" width="48%" />
+  </a>
+  <a href="https://github.com/saimumfahad-dev/crime-investigation-portal-java">
+    <img src="crime-investigation-card.png" alt="Crime Investigation Portal in Java" width="48%" />
+  </a>
+</p>
 
-A console-based academic banking simulator built with structured C programming and binary file storage.
+<details>
+<summary><strong>✦ Bank Management System — Features & technical highlights</strong></summary>
 
-**Features**
+A console-based academic banking simulator developed in C.
+
 - Account registration and login
-- Balance inquiries, deposits, and withdrawals
-- Password changes and basic transaction checks
-- Local account records stored using binary `.dat` files
+- Balance inquiry, deposits, and withdrawals
+- Password changes and transaction checks
+- Local binary `.dat` file storage
 
-**Skills applied:** C structures, control flow, functions, menu-driven design, and file I/O.
+**Skills:** C structures, functions, control flow, and file I/O.
 
-[**View repository & documentation**](https://github.com/saimumfahad-dev/bank-management-system-c)
+[View project documentation](https://github.com/saimumfahad-dev/bank-management-system-c)
 
-### [Crime Investigation Portal](https://github.com/saimumfahad-dev/crime-investigation-portal-java) · `Java Swing`
+</details>
 
-A desktop academic prototype for submitting and managing **fictional** case reports through role-specific interfaces.
+<details>
+<summary><strong>✦ Crime Investigation Portal — Features & technical highlights</strong></summary>
 
-**Features**
-- Victim-side incident report form and generated case IDs
-- Admin dashboard for reviewing reports and assigning investigators
-- Investigator dashboard for case details and status updates
-- Case tracking and local file-based storage
+A Java Swing desktop prototype for managing fictional crime reports.
 
-**Skills applied:** Java, Swing interfaces, object-oriented programming, event handling, and file I/O.
+- Victim report submission and case IDs
+- Admin dashboard and investigator assignment
+- Investigator dashboard and case status updates
+- Case tracking and local file storage
 
-[**View repository & documentation**](https://github.com/saimumfahad-dev/crime-investigation-portal-java) · [**Application screenshots**](https://github.com/saimumfahad-dev/crime-investigation-portal-java/tree/main/screenshots)
+**Skills:** Java, Swing, OOP, event handling, and file I/O.
 
-<sub>Both applications are educational prototypes, not production banking or law-enforcement systems.</sub>
+[View project and screenshots](https://github.com/saimumfahad-dev/crime-investigation-portal-java)
+
+</details>
+
+<sub>Both applications are academic prototypes, not production systems.</sub>
+
 
 ## ☾ Currently Exploring
 
