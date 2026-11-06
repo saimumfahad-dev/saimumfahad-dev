@@ -1,21 +1,31 @@
 
 <p align="center">
-  <img src="./banner.png" alt="Md Saimum Islam Fahad — GitHub profile banner" width="100%" />
+  <img src="banner.png" alt="Md Saimum Islam Fahad — purple pixel-art developer banner" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/md-saimum-islam-fahad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-147D70?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/saimumfahad-dev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Projects-24313A?style=flat-square&logo=github&logoColor=white" alt="Repositories" /></a>
-  <a href="mailto:saimumfahad655@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-147D70?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://img.shields.io/badge/CSE%20Undergraduate-NSU-8F63AA?style=flat-square&labelColor=241B2D" alt="CSE Undergraduate at NSU" />
+  <img src="https://img.shields.io/badge/Focus-Software%20Engineering-BB8BDC?style=flat-square&labelColor=241B2D" alt="Software Engineering" />
+  <img src="https://img.shields.io/badge/Mindset-Code%20%E2%80%A2%20Build%20%E2%80%A2%20Learn-8F63AA?style=flat-square&labelColor=241B2D" alt="Code, Build, Learn" />
 </p>
 
-## About Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-saimum-islam-fahad/"><img src="https://img.shields.io/badge/LinkedIn-Connect-8760A6?style=flat-square&logo=linkedin&logoColor=white&labelColor=241B2D" alt="LinkedIn" /></a>
+  <a href="https://github.com/saimumfahad-dev?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-8760A6?style=flat-square&logo=github&logoColor=white&labelColor=241B2D" alt="Repositories" /></a>
+  <a href="mailto:saimumfahad655@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-8760A6?style=flat-square&logo=gmail&logoColor=white&labelColor=241B2D" alt="Email" /></a>
+</p>
 
-I'm a **Computer Science & Engineering undergraduate at North South University**, based in Dhaka, Bangladesh. I enjoy building software projects that turn programming concepts into practical, working applications.
+---
 
-My interests include **software engineering, problem solving, mathematics, and AI/ML**. Alongside university, three years of private tutoring have strengthened my communication and mentoring skills.
+## ✦ About Me
 
-## Tech Stack
+I'm **Md Saimum Islam Fahad**, a **Computer Science & Engineering undergraduate at North South University** in Dhaka, Bangladesh.
+
+I enjoy turning programming concepts into working software, understanding how systems fit together, and improving one project at a time. My interests include **software engineering, mathematics, AI/ML, and robotics**.
+
+Outside coding, my experience tutoring students has strengthened my communication, problem-solving, and ability to explain technical ideas clearly.
+
+## 🛠 Tech Stack
 
 ### Languages & Markup
 
@@ -32,63 +42,66 @@ My interests include **software engineering, problem solving, mathematics, and A
   <img src="https://skillicons.dev/icons?i=vscode,idea,git,github&theme=dark" alt="Visual Studio Code, IntelliJ IDEA, Git, GitHub" />
 </p>
 
-`Code::Blocks` · `VS Code` · `IntelliJ IDEA` · `Git` · `GitHub`
+`Code::Blocks` · `Visual Studio Code` · `IntelliJ IDEA` · `Git` · `GitHub`
 
 ### Technical Foundations
 
-`Data Structures` · `Algorithms` · `Object-Oriented Programming` · `Java Swing` · `File Handling` · `Problem Solving`
+`Data Structures` · `Algorithms` · `Object-Oriented Programming` · `Problem Solving` · `Java Swing` · `File Handling`
 
-## Featured Projects
+## 📂 Featured Projects
 
-### [Bank Management System](https://github.com/saimumfahad-dev/bank-management-system-c) · C
+### [Bank Management System](https://github.com/saimumfahad-dev/bank-management-system-c) · `C`
 
-A console-based academic banking simulator built to practice structured programming and persistent file storage.
+A console-based academic banking simulator built with structured C programming and binary file storage.
 
-**Implemented features**
+**Features**
 - Account registration and login
-- Balance checks, deposits, and withdrawals
-- Password changes and basic transaction validation
-- Local account storage using binary `.dat` files
+- Balance inquiries, deposits, and withdrawals
+- Password changes and basic transaction checks
+- Local account records stored using binary `.dat` files
 
-**Skills demonstrated:** C structures, control flow, functions, file I/O, and menu-driven program design.
+**Skills applied:** C structures, control flow, functions, menu-driven design, and file I/O.
 
-[**Explore the C project**](https://github.com/saimumfahad-dev/bank-management-system-c)
+[**View repository & documentation**](https://github.com/saimumfahad-dev/bank-management-system-c)
 
-### [Crime Investigation Portal](https://github.com/saimumfahad-dev/crime-investigation-portal-java) · Java Swing
+### [Crime Investigation Portal](https://github.com/saimumfahad-dev/crime-investigation-portal-java) · `Java Swing`
 
-A desktop academic prototype for filing and managing **fictional** crime reports through separate user interfaces.
+A desktop academic prototype for submitting and managing **fictional** case reports through role-specific interfaces.
 
-**Implemented features**
-- Victim report form and generated case IDs
-- Administrator dashboard for report review and investigator assignment
-- Investigator dashboard for assigned cases and status updates
-- Case tracking and local text-file storage
+**Features**
+- Victim-side incident report form and generated case IDs
+- Admin dashboard for reviewing reports and assigning investigators
+- Investigator dashboard for case details and status updates
+- Case tracking and local file-based storage
 
-**Skills demonstrated:** Java, Swing GUI development, object-oriented design, event handling, and file I/O.
+**Skills applied:** Java, Swing interfaces, object-oriented programming, event handling, and file I/O.
 
-[**Explore the Java project**](https://github.com/saimumfahad-dev/crime-investigation-portal-java) · [**View application screenshots**](https://github.com/saimumfahad-dev/crime-investigation-portal-java/tree/main/screenshots)
+[**View repository & documentation**](https://github.com/saimumfahad-dev/crime-investigation-portal-java) · [**Application screenshots**](https://github.com/saimumfahad-dev/crime-investigation-portal-java/tree/main/screenshots)
 
-<sub>Both projects are educational prototypes, not production banking or law-enforcement systems.</sub>
+<sub>Both applications are educational prototypes, not production banking or law-enforcement systems.</sub>
 
-## Currently Working On
+## ☾ Currently Exploring
 
 - Strengthening data structures, algorithms, and problem-solving skills
-- Writing cleaner, more maintainable code
-- Building and documenting more complete software projects
-- Exploring the mathematical foundations of AI/ML
+- Writing cleaner, more maintainable programs
+- Building and documenting complete software projects
+- Learning more about AI/ML, mathematics, and robotics
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=saimumfahad-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B1113&title_color=45B9A7&text_color=CBD5D4&icon_color=45B9A7" alt="GitHub activity statistics" width="450" />
+  <img src="https://github-stats-extended.vercel.app/api?username=saimumfahad-dev&show_icons=true&hide_rank=true&hide_border=true&bg_color=201725&title_color=C596E6&text_color=E8DFF0&icon_color=B986D9" alt="GitHub statistics" width="450" />
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saimumfahad-dev&layout=compact&hide_border=true&bg_color=0B1113&title_color=45B9A7&text_color=CBD5D4" alt="Languages used in public GitHub repositories" width="360" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=saimumfahad-dev&layout=compact&hide_border=true&bg_color=201725&title_color=C596E6&text_color=E8DFF0" alt="Languages used in public repositories" width="360" />
 </p>
 
-<sub>These third-party cards may occasionally be unavailable. Language statistics reflect code in public repositories, not every language I know.</sub>
+<sub>Activity cards are provided by an external service and may occasionally be unavailable. Language statistics reflect public repository code, not every language I know.</sub>
 
 ---
 
-<p align="center"><sub><strong>Code · Build · Learn</strong></sub></p>
+<p align="center">
+  <strong>✦ Code · Build · Learn ✦</strong><br />
+  <sub>Thanks for visiting my corner of GitHub.</sub>
+</p>
